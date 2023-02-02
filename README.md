@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexTom22
+- 👋 Hi, I am Alexander. From Minsk, Belarus.
 - 👀 I am interested in QA automation, Python and and everything related to it.
 - 🌱 I am currently auto-testing the Capital.com website with Vadim Ksendzov.
 - 💞️ I am looking for cooperation in autotesting websites on an ongoing basis.
